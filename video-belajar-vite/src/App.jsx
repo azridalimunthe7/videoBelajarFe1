@@ -1,7 +1,7 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom"; // import ketiga ini buat library routing pages react
-import Home from "./pages/Home.jsx"; // import dulu
-import Login from "./pages/Login.jsx"; // import dulu
-import Register from "./pages/Register.jsx"; // import dulu
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home.jsx"; // import Home.jsx
+import Login from "./pages/Login.jsx"; // import Login.jsx
+import Register from "./pages/Register.jsx"; // import Register.jsx
 
 function App() {
   return (
